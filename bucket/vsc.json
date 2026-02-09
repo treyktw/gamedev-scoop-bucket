@@ -5,7 +5,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/treyktw/gamedev-vcs/releases/download/v0.0.311/vsc-0.0.311-windows-amd64.zip",
-      "hash": "72911c7c856e18a126f4bfde5346fd497c77faca229805ae48039ddccb80fea6"
+      "hash": "3a6ab770de5f86fedc7c73297cc144ea7418c086f25f496cc8ae103f8cb64fcf"
     }
   },
   "bin": "vsc.exe"
