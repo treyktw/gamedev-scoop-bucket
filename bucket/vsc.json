@@ -5,7 +5,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/treyktw/gamedev-vcs/releases/download/v0.0.313/zync-0.0.313-windows-amd64.zip",
-      "hash": "ca7e0421644c62746c4fb81b98b74fef5ebbeb9055051eb1704868f0f89b657a"
+      "hash": "4d2b230be285d3eaf04afe155eb128666f1f9f5a46ddcb848c24f2d2eab9d994"
     }
   },
   "bin": "vsc.exe"
