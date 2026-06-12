@@ -1,12 +1,12 @@
 {
   "version": "0.0.313",
-  "description": "VSC - Game Development Version Control CLI",
+  "description": "Zync - Game Development Version Control CLI",
   "homepage": "https://github.com/treyktw/gamedev-vcs",
   "architecture": {
     "64bit": {
       "url": "https://github.com/treyktw/gamedev-vcs/releases/download/v0.0.313/zync-0.0.313-windows-amd64.zip",
-      "hash": "4d2b230be285d3eaf04afe155eb128666f1f9f5a46ddcb848c24f2d2eab9d994"
+      "hash": "25289dccfaf56f1e34fb25325e29d04b7402d0605ad58395a66a7012da8add6d"
     }
   },
-  "bin": "vsc.exe"
+  "bin": "zync.exe"
 }
