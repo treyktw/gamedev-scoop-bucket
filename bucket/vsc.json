@@ -1,11 +1,11 @@
 {
-  "version": "0.0.312",
+  "version": "0.0.313",
   "description": "VSC - Game Development Version Control CLI",
   "homepage": "https://github.com/treyktw/gamedev-vcs",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/treyktw/gamedev-vcs/releases/download/v0.0.312/vsc-0.0.312-windows-amd64.zip",
-      "hash": "ea2d660505b88b57ee3d55d3c2e7371536a17314a2a602b4f009e6bec254ca5b"
+      "url": "https://github.com/treyktw/gamedev-vcs/releases/download/v0.0.313/zync-0.0.313-windows-amd64.zip",
+      "hash": "ca7e0421644c62746c4fb81b98b74fef5ebbeb9055051eb1704868f0f89b657a"
     }
   },
   "bin": "vsc.exe"
