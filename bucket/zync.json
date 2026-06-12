@@ -1,11 +1,11 @@
 {
-  "version": "0.0.314",
+  "version": "0.0.315",
   "description": "Zync - Game Development Version Control CLI",
   "homepage": "https://github.com/treyktw/zync-cli",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/treyktw/zync-cli/releases/download/v0.0.314/zync-0.0.314-windows-amd64.zip",
-      "hash": "7cbe8f76d1467cd8dc15aef996213c3b1731a418b593365f502ab17b314108a8"
+      "url": "https://github.com/treyktw/zync-cli/releases/download/v0.0.315/zync-0.0.315-windows-amd64.zip",
+      "hash": "ac5bb47bf7af6ba247fcf14211dc18992fb52453cace0554f015190e99163a79"
     }
   },
   "bin": "zync.exe"
