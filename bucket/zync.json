@@ -5,7 +5,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/treyktw/zync-cli/releases/download/v0.0.405/zync-0.0.405-windows-amd64.zip",
-      "hash": "434bdbc124eb2b02b779041b9cb4f48ff66f2edd5d5bff2231f84e049f7ee3c1"
+      "hash": "b1b571773dd834d446277598beb0437d7f5c63609e01a161dfa5c59bdc7ecbfd"
     }
   },
   "bin": "zync.exe"
